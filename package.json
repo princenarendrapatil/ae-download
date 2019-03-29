@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Narendra Patil",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princenarendrapatil/ae-download.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/princenarendrapatil/ae-download/issues"
+  },
+  "homepage": "https://github.com/princenarendrapatil/ae-download#readme"
 }
